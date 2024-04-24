@@ -79,7 +79,7 @@
         {
           "name": "subject-mat-file",
           "type": "File",
-          "matcher": "@.label =~ /.*.snirf.*/i",
+          "matcher": "@.label =~ /.*.nirs.*/i",
           "required": true,
           "load-children": true,
           "derived-from-wrapper-input": "scanResource",
